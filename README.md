@@ -33,7 +33,7 @@ A screenshot of the completed dashboard is included for quick viewing.
 
 Certificate
 
-The SQL/Data Analytics course certificate is included as evidence of completed learning.
+The SQL course certificate is included as evidence of completed learning.
 
 Files Included
 
